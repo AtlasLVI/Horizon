@@ -1,2 +1,4 @@
-# Horizon
-See More, Do More. The All-In-One productivity app, open soruced.
+# Horizon 
+~ See More, Do More.
+
+The all-in-one productivity app, open-sourced.
